@@ -153,6 +153,11 @@ Authentication
     The application uses JWT (JSON Web Tokens) for authentication.
     To access protected routes, you must include the JWT in the x-access-token header of your requests.
 
+
+ENDPOINT
+
+    i have created a one endpoint image folder in which i have all screenshot atteched.
+
 File Upload
 
     Uploaded files are stored in the uploads folder.
