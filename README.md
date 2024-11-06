@@ -154,12 +154,17 @@ Authentication
     To access protected routes, you must include the JWT in the x-access-token header of your requests.
 
 
-ENDPOINT
-
-    i have created a one endpoint image folder in which i have all screenshot atteched.
 
 File Upload
 
     Uploaded files are stored in the uploads folder.
     Allowed file types include txt, pdf, png, jpg, jpeg, and gif.
+
+ENDPOINT
+
+    i have created a one endpoint image folder in which i have all screenshot atteched.
+
+VIDEO
+
+    for the video i have created one folder and in that folder i have attached link to that.
  
